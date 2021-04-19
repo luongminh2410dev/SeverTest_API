@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="SanPham">
+  <DataContextMoniker Name="/SanPhamDataContext" />
+  <nestedChildShapes>
+    <classShape Id="2814bcaa-2636-48ed-b332-c81af267e4a2" absoluteBounds="4, 1.125, 2, 1.9631982421875">
+      <DataClassMoniker Name="/SanPhamDataContext/SanPham" />
+      <nestedChildShapes>
+        <elementListCompartment Id="939687a7-0f7d-4d69-a277-06d4494f4e91" absoluteBounds="4.015, 1.585, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
